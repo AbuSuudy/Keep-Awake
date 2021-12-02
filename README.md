@@ -4,9 +4,9 @@
 
 <br />
 
-Auto Hotkey script that jiggle the mouse (1 pixel don't notice) to keep the pc awake. This is an exe that could be run without auto hot key installed. Useful for long remote session to a person laptop without needing to change settings.
+Auto Hotkey script that jiggles the mouse by 1 pixel and sleeps for 1 minute in a loop. Won't notice movement in use it will. Useful for long remote session to a person machine without needing to change settings. This is an exe that could be run without auto hot key installed. 
 
-
+<br><br> Use <kbd>enter</kbd> to exit script.
 
 
 ## License
