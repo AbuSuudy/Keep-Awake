@@ -11,6 +11,3 @@ Always Awake is a Auto Hotkey script that jiggles the mouse by 1 pixel to keep y
 ## Use
 Run exe and use <kbd>esc</kbd> to exit script
 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
